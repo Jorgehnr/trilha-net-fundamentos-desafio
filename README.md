@@ -1,4 +1,17 @@
-# DIO - Trilha .NET - Fundamentos
+
+# Descrição das atualizações e resolução do desafio feita por Jorge Honorio
+
+Implementado os métodos de adicionar, remover e listar veículos do estacionamento.
+
+Implementado o modelo de veículos com os seguintes atributos, armazenado na lista de veículos do estacionamento:
+
+* Tipo de veículo - o estacionamento pode receber carros e motos, com preço de entrada e preço por hora diferente para cada tipo de veículo.
+* Placa do veículo - Placa do veículo estacionado recebe letra e número.
+* Nome do motorista - Nome do motorista do veículo.
+* Telefone de contato - Telefone de contato do motorista do veículo.
+
+
+# DIO - Trilha .NET - Fundamentos (Readme Original do projeto)
 www.dio.me
 
 ## Desafio de projeto
